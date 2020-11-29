@@ -1,0 +1,398 @@
+{"_c0":"0","mpg":"18.0","cylinders":"8","displacement":"307.0","horsepower":"130.0","weight":"3504.0","acceleration":"12.0","year":"1970","origin":"1","name":"chevrolet chevelle malibu"}
+{"_c0":"1","mpg":"15.0","cylinders":"8","displacement":"350.0","horsepower":"165.0","weight":"3693.0","acceleration":"11.5","year":"1970","origin":"1","name":"buick skylark 320"}
+{"_c0":"2","mpg":"18.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"3436.0","acceleration":"11.0","year":"1970","origin":"1","name":"plymouth satellite"}
+{"_c0":"3","mpg":"16.0","cylinders":"8","displacement":"304.0","horsepower":"150.0","weight":"3433.0","acceleration":"12.0","year":"1970","origin":"1","name":"amc rebel sst"}
+{"_c0":"4","mpg":"17.0","cylinders":"8","displacement":"302.0","horsepower":"140.0","weight":"3449.0","acceleration":"10.5","year":"1970","origin":"1","name":"ford torino"}
+{"_c0":"5","mpg":"15.0","cylinders":"8","displacement":"429.0","horsepower":"198.0","weight":"4341.0","acceleration":"10.0","year":"1970","origin":"1","name":"ford galaxie 500"}
+{"_c0":"6","mpg":"14.0","cylinders":"8","displacement":"454.0","horsepower":"220.0","weight":"4354.0","acceleration":"9.0","year":"1970","origin":"1","name":"chevrolet impala"}
+{"_c0":"7","mpg":"14.0","cylinders":"8","displacement":"440.0","horsepower":"215.0","weight":"4312.0","acceleration":"8.5","year":"1970","origin":"1","name":"plymouth fury iii"}
+{"_c0":"8","mpg":"14.0","cylinders":"8","displacement":"455.0","horsepower":"225.0","weight":"4425.0","acceleration":"10.0","year":"1970","origin":"1","name":"pontiac catalina"}
+{"_c0":"9","mpg":"15.0","cylinders":"8","displacement":"390.0","horsepower":"190.0","weight":"3850.0","acceleration":"8.5","year":"1970","origin":"1","name":"amc ambassador dpl"}
+{"_c0":"10","mpg":"15.0","cylinders":"8","displacement":"383.0","horsepower":"170.0","weight":"3563.0","acceleration":"10.0","year":"1970","origin":"1","name":"dodge challenger se"}
+{"_c0":"11","mpg":"14.0","cylinders":"8","displacement":"340.0","horsepower":"160.0","weight":"3609.0","acceleration":"8.0","year":"1970","origin":"1","name":"plymouth 'cuda 340"}
+{"_c0":"12","mpg":"15.0","cylinders":"8","displacement":"400.0","horsepower":"150.0","weight":"3761.0","acceleration":"9.5","year":"1970","origin":"1","name":"chevrolet monte carlo"}
+{"_c0":"13","mpg":"14.0","cylinders":"8","displacement":"455.0","horsepower":"225.0","weight":"3086.0","acceleration":"10.0","year":"1970","origin":"1","name":"buick estate wagon (sw)"}
+{"_c0":"14","mpg":"24.0","cylinders":"4","displacement":"113.0","horsepower":"95.0","weight":"2372.0","acceleration":"15.0","year":"1970","origin":"3","name":"toyota corona mark ii"}
+{"_c0":"15","mpg":"22.0","cylinders":"6","displacement":"198.0","horsepower":"95.0","weight":"2833.0","acceleration":"15.5","year":"1970","origin":"1","name":"plymouth duster"}
+{"_c0":"16","mpg":"18.0","cylinders":"6","displacement":"199.0","horsepower":"97.0","weight":"2774.0","acceleration":"15.5","year":"1970","origin":"1","name":"amc hornet"}
+{"_c0":"17","mpg":"21.0","cylinders":"6","displacement":"200.0","horsepower":"85.0","weight":"2587.0","acceleration":"16.0","year":"1970","origin":"1","name":"ford maverick"}
+{"_c0":"18","mpg":"27.0","cylinders":"4","displacement":"97.0","horsepower":"88.0","weight":"2130.0","acceleration":"14.5","year":"1970","origin":"3","name":"datsun pl510"}
+{"_c0":"19","mpg":"26.0","cylinders":"4","displacement":"97.0","horsepower":"46.0","weight":"1835.0","acceleration":"20.5","year":"1970","origin":"2","name":"volkswagen 1131 deluxe sedan"}
+{"_c0":"20","mpg":"25.0","cylinders":"4","displacement":"110.0","horsepower":"87.0","weight":"2672.0","acceleration":"17.5","year":"1970","origin":"2","name":"peugeot 504"}
+{"_c0":"21","mpg":"24.0","cylinders":"4","displacement":"107.0","horsepower":"90.0","weight":"2430.0","acceleration":"14.5","year":"1970","origin":"2","name":"audi 100 ls"}
+{"_c0":"22","mpg":"25.0","cylinders":"4","displacement":"104.0","horsepower":"95.0","weight":"2375.0","acceleration":"17.5","year":"1970","origin":"2","name":"saab 99e"}
+{"_c0":"23","mpg":"26.0","cylinders":"4","displacement":"121.0","horsepower":"113.0","weight":"2234.0","acceleration":"12.5","year":"1970","origin":"2","name":"bmw 2002"}
+{"_c0":"24","mpg":"21.0","cylinders":"6","displacement":"199.0","horsepower":"90.0","weight":"2648.0","acceleration":"15.0","year":"1970","origin":"1","name":"amc gremlin"}
+{"_c0":"25","mpg":"10.0","cylinders":"8","displacement":"360.0","horsepower":"215.0","weight":"4615.0","acceleration":"14.0","year":"1970","origin":"1","name":"ford f250"}
+{"_c0":"26","mpg":"10.0","cylinders":"8","displacement":"307.0","horsepower":"200.0","weight":"4376.0","acceleration":"15.0","year":"1970","origin":"1","name":"chevy c20"}
+{"_c0":"27","mpg":"11.0","cylinders":"8","displacement":"318.0","horsepower":"210.0","weight":"4382.0","acceleration":"13.5","year":"1970","origin":"1","name":"dodge d200"}
+{"_c0":"28","mpg":"9.0","cylinders":"8","displacement":"304.0","horsepower":"193.0","weight":"4732.0","acceleration":"18.5","year":"1970","origin":"1","name":"hi 1200d"}
+{"_c0":"29","mpg":"27.0","cylinders":"4","displacement":"97.0","horsepower":"88.0","weight":"2130.0","acceleration":"14.5","year":"1971","origin":"3","name":"datsun pl510"}
+{"_c0":"30","mpg":"28.0","cylinders":"4","displacement":"140.0","horsepower":"90.0","weight":"2264.0","acceleration":"15.5","year":"1971","origin":"1","name":"chevrolet vega 2300"}
+{"_c0":"31","mpg":"25.0","cylinders":"4","displacement":"113.0","horsepower":"95.0","weight":"2228.0","acceleration":"14.0","year":"1971","origin":"3","name":"toyota corona"}
+{"_c0":"32","mpg":"25.0","cylinders":"4","displacement":"98.0","weight":"2046.0","acceleration":"19.0","year":"1971","origin":"1","name":"ford pinto"}
+{"_c0":"33","mpg":"19.0","cylinders":"6","displacement":"232.0","horsepower":"100.0","weight":"2634.0","acceleration":"13.0","year":"1971","origin":"1","name":"amc gremlin"}
+{"_c0":"34","mpg":"16.0","cylinders":"6","displacement":"225.0","horsepower":"105.0","weight":"3439.0","acceleration":"15.5","year":"1971","origin":"1","name":"plymouth satellite custom"}
+{"_c0":"35","mpg":"17.0","cylinders":"6","displacement":"250.0","horsepower":"100.0","weight":"3329.0","acceleration":"15.5","year":"1971","origin":"1","name":"chevrolet chevelle malibu"}
+{"_c0":"36","mpg":"19.0","cylinders":"6","displacement":"250.0","horsepower":"88.0","weight":"3302.0","acceleration":"15.5","year":"1971","origin":"1","name":"ford torino 500"}
+{"_c0":"37","mpg":"18.0","cylinders":"6","displacement":"232.0","horsepower":"100.0","weight":"3288.0","acceleration":"15.5","year":"1971","origin":"1","name":"amc matador"}
+{"_c0":"38","mpg":"14.0","cylinders":"8","displacement":"350.0","horsepower":"165.0","weight":"4209.0","acceleration":"12.0","year":"1971","origin":"1","name":"chevrolet impala"}
+{"_c0":"39","mpg":"14.0","cylinders":"8","displacement":"400.0","horsepower":"175.0","weight":"4464.0","acceleration":"11.5","year":"1971","origin":"1","name":"pontiac catalina brougham"}
+{"_c0":"40","mpg":"14.0","cylinders":"8","displacement":"351.0","horsepower":"153.0","weight":"4154.0","acceleration":"13.5","year":"1971","origin":"1","name":"ford galaxie 500"}
+{"_c0":"41","mpg":"14.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"4096.0","acceleration":"13.0","year":"1971","origin":"1","name":"plymouth fury iii"}
+{"_c0":"42","mpg":"12.0","cylinders":"8","displacement":"383.0","horsepower":"180.0","weight":"4955.0","acceleration":"11.5","year":"1971","origin":"1","name":"dodge monaco (sw)"}
+{"_c0":"43","mpg":"13.0","cylinders":"8","displacement":"400.0","horsepower":"170.0","weight":"4746.0","acceleration":"12.0","year":"1971","origin":"1","name":"ford country squire (sw)"}
+{"_c0":"44","mpg":"13.0","cylinders":"8","displacement":"400.0","horsepower":"175.0","weight":"5140.0","acceleration":"12.0","year":"1971","origin":"1","name":"pontiac safari (sw)"}
+{"_c0":"45","mpg":"18.0","cylinders":"6","displacement":"258.0","horsepower":"110.0","weight":"2962.0","acceleration":"13.5","year":"1971","origin":"1","name":"amc hornet sportabout (sw)"}
+{"_c0":"46","mpg":"22.0","cylinders":"4","displacement":"140.0","horsepower":"72.0","weight":"2408.0","acceleration":"19.0","year":"1971","origin":"1","name":"chevrolet vega (sw)"}
+{"_c0":"47","mpg":"19.0","cylinders":"6","displacement":"250.0","horsepower":"100.0","weight":"3282.0","acceleration":"15.0","year":"1971","origin":"1","name":"pontiac firebird"}
+{"_c0":"48","mpg":"18.0","cylinders":"6","displacement":"250.0","horsepower":"88.0","weight":"3139.0","acceleration":"14.5","year":"1971","origin":"1","name":"ford mustang"}
+{"_c0":"49","mpg":"23.0","cylinders":"4","displacement":"122.0","horsepower":"86.0","weight":"2220.0","acceleration":"14.0","year":"1971","origin":"1","name":"mercury capri 2000"}
+{"_c0":"50","mpg":"28.0","cylinders":"4","displacement":"116.0","horsepower":"90.0","weight":"2123.0","acceleration":"14.0","year":"1971","origin":"2","name":"opel 1900"}
+{"_c0":"51","mpg":"30.0","cylinders":"4","displacement":"79.0","horsepower":"70.0","weight":"2074.0","acceleration":"19.5","year":"1971","origin":"2","name":"peugeot 304"}
+{"_c0":"52","mpg":"30.0","cylinders":"4","displacement":"88.0","horsepower":"76.0","weight":"2065.0","acceleration":"14.5","year":"1971","origin":"2","name":"fiat 124b"}
+{"_c0":"53","mpg":"31.0","cylinders":"4","displacement":"71.0","horsepower":"65.0","weight":"1773.0","acceleration":"19.0","year":"1971","origin":"3","name":"toyota corolla 1200"}
+{"_c0":"54","mpg":"35.0","cylinders":"4","displacement":"72.0","horsepower":"69.0","weight":"1613.0","acceleration":"18.0","year":"1971","origin":"3","name":"datsun 1200"}
+{"_c0":"55","mpg":"27.0","cylinders":"4","displacement":"97.0","horsepower":"60.0","weight":"1834.0","acceleration":"19.0","year":"1971","origin":"2","name":"volkswagen model 111"}
+{"_c0":"56","mpg":"26.0","cylinders":"4","displacement":"91.0","horsepower":"70.0","weight":"1955.0","acceleration":"20.5","year":"1971","origin":"1","name":"plymouth cricket"}
+{"_c0":"57","mpg":"24.0","cylinders":"4","displacement":"113.0","horsepower":"95.0","weight":"2278.0","acceleration":"15.5","year":"1972","origin":"3","name":"toyota corona hardtop"}
+{"_c0":"58","mpg":"25.0","cylinders":"4","displacement":"97.5","horsepower":"80.0","weight":"2126.0","acceleration":"17.0","year":"1972","origin":"1","name":"dodge colt hardtop"}
+{"_c0":"59","mpg":"23.0","cylinders":"4","displacement":"97.0","horsepower":"54.0","weight":"2254.0","acceleration":"23.5","year":"1972","origin":"2","name":"volkswagen type 3"}
+{"_c0":"60","mpg":"20.0","cylinders":"4","displacement":"140.0","horsepower":"90.0","weight":"2408.0","acceleration":"19.5","year":"1972","origin":"1","name":"chevrolet vega"}
+{"_c0":"61","mpg":"21.0","cylinders":"4","displacement":"122.0","horsepower":"86.0","weight":"2226.0","acceleration":"16.5","year":"1972","origin":"1","name":"ford pinto runabout"}
+{"_c0":"62","mpg":"13.0","cylinders":"8","displacement":"350.0","horsepower":"165.0","weight":"4274.0","acceleration":"12.0","year":"1972","origin":"1","name":"chevrolet impala"}
+{"_c0":"63","mpg":"14.0","cylinders":"8","displacement":"400.0","horsepower":"175.0","weight":"4385.0","acceleration":"12.0","year":"1972","origin":"1","name":"pontiac catalina"}
+{"_c0":"64","mpg":"15.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"4135.0","acceleration":"13.5","year":"1972","origin":"1","name":"plymouth fury iii"}
+{"_c0":"65","mpg":"14.0","cylinders":"8","displacement":"351.0","horsepower":"153.0","weight":"4129.0","acceleration":"13.0","year":"1972","origin":"1","name":"ford galaxie 500"}
+{"_c0":"66","mpg":"17.0","cylinders":"8","displacement":"304.0","horsepower":"150.0","weight":"3672.0","acceleration":"11.5","year":"1972","origin":"1","name":"amc ambassador sst"}
+{"_c0":"67","mpg":"11.0","cylinders":"8","displacement":"429.0","horsepower":"208.0","weight":"4633.0","acceleration":"11.0","year":"1972","origin":"1","name":"mercury marquis"}
+{"_c0":"68","mpg":"13.0","cylinders":"8","displacement":"350.0","horsepower":"155.0","weight":"4502.0","acceleration":"13.5","year":"1972","origin":"1","name":"buick lesabre custom"}
+{"_c0":"69","mpg":"12.0","cylinders":"8","displacement":"350.0","horsepower":"160.0","weight":"4456.0","acceleration":"13.5","year":"1972","origin":"1","name":"oldsmobile delta 88 royale"}
+{"_c0":"70","mpg":"13.0","cylinders":"8","displacement":"400.0","horsepower":"190.0","weight":"4422.0","acceleration":"12.5","year":"1972","origin":"1","name":"chrysler newport royal"}
+{"_c0":"71","mpg":"19.0","cylinders":"3","displacement":"70.0","horsepower":"97.0","weight":"2330.0","acceleration":"13.5","year":"1972","origin":"3","name":"mazda rx2 coupe"}
+{"_c0":"72","mpg":"15.0","cylinders":"8","displacement":"304.0","horsepower":"150.0","weight":"3892.0","acceleration":"12.5","year":"1972","origin":"1","name":"amc matador (sw)"}
+{"_c0":"73","mpg":"13.0","cylinders":"8","displacement":"307.0","horsepower":"130.0","weight":"4098.0","acceleration":"14.0","year":"1972","origin":"1","name":"chevrolet chevelle concours (sw)"}
+{"_c0":"74","mpg":"13.0","cylinders":"8","displacement":"302.0","horsepower":"140.0","weight":"4294.0","acceleration":"16.0","year":"1972","origin":"1","name":"ford gran torino (sw)"}
+{"_c0":"75","mpg":"14.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"4077.0","acceleration":"14.0","year":"1972","origin":"1","name":"plymouth satellite custom (sw)"}
+{"_c0":"76","mpg":"18.0","cylinders":"4","displacement":"121.0","horsepower":"112.0","weight":"2933.0","acceleration":"14.5","year":"1972","origin":"2","name":"volvo 145e (sw)"}
+{"_c0":"77","mpg":"22.0","cylinders":"4","displacement":"121.0","horsepower":"76.0","weight":"2511.0","acceleration":"18.0","year":"1972","origin":"2","name":"volkswagen 411 (sw)"}
+{"_c0":"78","mpg":"21.0","cylinders":"4","displacement":"120.0","horsepower":"87.0","weight":"2979.0","acceleration":"19.5","year":"1972","origin":"2","name":"peugeot 504 (sw)"}
+{"_c0":"79","mpg":"26.0","cylinders":"4","displacement":"96.0","horsepower":"69.0","weight":"2189.0","acceleration":"18.0","year":"1972","origin":"2","name":"renault 12 (sw)"}
+{"_c0":"80","mpg":"22.0","cylinders":"4","displacement":"122.0","horsepower":"86.0","weight":"2395.0","acceleration":"16.0","year":"1972","origin":"1","name":"ford pinto (sw)"}
+{"_c0":"81","mpg":"28.0","cylinders":"4","displacement":"97.0","horsepower":"92.0","weight":"2288.0","acceleration":"17.0","year":"1972","origin":"3","name":"datsun 510 (sw)"}
+{"_c0":"82","mpg":"23.0","cylinders":"4","displacement":"120.0","horsepower":"97.0","weight":"2506.0","acceleration":"14.5","year":"1972","origin":"3","name":"toyouta corona mark ii (sw)"}
+{"_c0":"83","mpg":"28.0","cylinders":"4","displacement":"98.0","horsepower":"80.0","weight":"2164.0","acceleration":"15.0","year":"1972","origin":"1","name":"dodge colt (sw)"}
+{"_c0":"84","mpg":"27.0","cylinders":"4","displacement":"97.0","horsepower":"88.0","weight":"2100.0","acceleration":"16.5","year":"1972","origin":"3","name":"toyota corolla 1600 (sw)"}
+{"_c0":"85","mpg":"13.0","cylinders":"8","displacement":"350.0","horsepower":"175.0","weight":"4100.0","acceleration":"13.0","year":"1973","origin":"1","name":"buick century 350"}
+{"_c0":"86","mpg":"14.0","cylinders":"8","displacement":"304.0","horsepower":"150.0","weight":"3672.0","acceleration":"11.5","year":"1973","origin":"1","name":"amc matador"}
+{"_c0":"87","mpg":"13.0","cylinders":"8","displacement":"350.0","horsepower":"145.0","weight":"3988.0","acceleration":"13.0","year":"1973","origin":"1","name":"chevrolet malibu"}
+{"_c0":"88","mpg":"14.0","cylinders":"8","displacement":"302.0","horsepower":"137.0","weight":"4042.0","acceleration":"14.5","year":"1973","origin":"1","name":"ford gran torino"}
+{"_c0":"89","mpg":"15.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"3777.0","acceleration":"12.5","year":"1973","origin":"1","name":"dodge coronet custom"}
+{"_c0":"90","mpg":"12.0","cylinders":"8","displacement":"429.0","horsepower":"198.0","weight":"4952.0","acceleration":"11.5","year":"1973","origin":"1","name":"mercury marquis brougham"}
+{"_c0":"91","mpg":"13.0","cylinders":"8","displacement":"400.0","horsepower":"150.0","weight":"4464.0","acceleration":"12.0","year":"1973","origin":"1","name":"chevrolet caprice classic"}
+{"_c0":"92","mpg":"13.0","cylinders":"8","displacement":"351.0","horsepower":"158.0","weight":"4363.0","acceleration":"13.0","year":"1973","origin":"1","name":"ford ltd"}
+{"_c0":"93","mpg":"14.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"4237.0","acceleration":"14.5","year":"1973","origin":"1","name":"plymouth fury gran sedan"}
+{"_c0":"94","mpg":"13.0","cylinders":"8","displacement":"440.0","horsepower":"215.0","weight":"4735.0","acceleration":"11.0","year":"1973","origin":"1","name":"chrysler new yorker brougham"}
+{"_c0":"95","mpg":"12.0","cylinders":"8","displacement":"455.0","horsepower":"225.0","weight":"4951.0","acceleration":"11.0","year":"1973","origin":"1","name":"buick electra 225 custom"}
+{"_c0":"96","mpg":"13.0","cylinders":"8","displacement":"360.0","horsepower":"175.0","weight":"3821.0","acceleration":"11.0","year":"1973","origin":"1","name":"amc ambassador brougham"}
+{"_c0":"97","mpg":"18.0","cylinders":"6","displacement":"225.0","horsepower":"105.0","weight":"3121.0","acceleration":"16.5","year":"1973","origin":"1","name":"plymouth valiant"}
+{"_c0":"98","mpg":"16.0","cylinders":"6","displacement":"250.0","horsepower":"100.0","weight":"3278.0","acceleration":"18.0","year":"1973","origin":"1","name":"chevrolet nova custom"}
+{"_c0":"99","mpg":"18.0","cylinders":"6","displacement":"232.0","horsepower":"100.0","weight":"2945.0","acceleration":"16.0","year":"1973","origin":"1","name":"amc hornet"}
+{"_c0":"100","mpg":"18.0","cylinders":"6","displacement":"250.0","horsepower":"88.0","weight":"3021.0","acceleration":"16.5","year":"1973","origin":"1","name":"ford maverick"}
+{"_c0":"101","mpg":"23.0","cylinders":"6","displacement":"198.0","horsepower":"95.0","weight":"2904.0","acceleration":"16.0","year":"1973","origin":"1","name":"plymouth duster"}
+{"_c0":"102","mpg":"26.0","cylinders":"4","displacement":"97.0","horsepower":"46.0","weight":"1950.0","acceleration":"21.0","year":"1973","origin":"2","name":"volkswagen super beetle"}
+{"_c0":"103","mpg":"11.0","cylinders":"8","displacement":"400.0","horsepower":"150.0","weight":"4997.0","acceleration":"14.0","year":"1973","origin":"1","name":"chevrolet impala"}
+{"_c0":"104","mpg":"12.0","cylinders":"8","displacement":"400.0","horsepower":"167.0","weight":"4906.0","acceleration":"12.5","year":"1973","origin":"1","name":"ford country"}
+{"_c0":"105","mpg":"13.0","cylinders":"8","displacement":"360.0","horsepower":"170.0","weight":"4654.0","acceleration":"13.0","year":"1973","origin":"1","name":"plymouth custom suburb"}
+{"_c0":"106","mpg":"12.0","cylinders":"8","displacement":"350.0","horsepower":"180.0","weight":"4499.0","acceleration":"12.5","year":"1973","origin":"1","name":"oldsmobile vista cruiser"}
+{"_c0":"107","mpg":"18.0","cylinders":"6","displacement":"232.0","horsepower":"100.0","weight":"2789.0","acceleration":"15.0","year":"1973","origin":"1","name":"amc gremlin"}
+{"_c0":"108","mpg":"20.0","cylinders":"4","displacement":"97.0","horsepower":"88.0","weight":"2279.0","acceleration":"19.0","year":"1973","origin":"3","name":"toyota carina"}
+{"_c0":"109","mpg":"21.0","cylinders":"4","displacement":"140.0","horsepower":"72.0","weight":"2401.0","acceleration":"19.5","year":"1973","origin":"1","name":"chevrolet vega"}
+{"_c0":"110","mpg":"22.0","cylinders":"4","displacement":"108.0","horsepower":"94.0","weight":"2379.0","acceleration":"16.5","year":"1973","origin":"3","name":"datsun 610"}
+{"_c0":"111","mpg":"18.0","cylinders":"3","displacement":"70.0","horsepower":"90.0","weight":"2124.0","acceleration":"13.5","year":"1973","origin":"3","name":"maxda rx3"}
+{"_c0":"112","mpg":"19.0","cylinders":"4","displacement":"122.0","horsepower":"85.0","weight":"2310.0","acceleration":"18.5","year":"1973","origin":"1","name":"ford pinto"}
+{"_c0":"113","mpg":"21.0","cylinders":"6","displacement":"155.0","horsepower":"107.0","weight":"2472.0","acceleration":"14.0","year":"1973","origin":"1","name":"mercury capri v6"}
+{"_c0":"114","mpg":"26.0","cylinders":"4","displacement":"98.0","horsepower":"90.0","weight":"2265.0","acceleration":"15.5","year":"1973","origin":"2","name":"fiat 124 sport coupe"}
+{"_c0":"115","mpg":"15.0","cylinders":"8","displacement":"350.0","horsepower":"145.0","weight":"4082.0","acceleration":"13.0","year":"1973","origin":"1","name":"chevrolet monte carlo s"}
+{"_c0":"116","mpg":"16.0","cylinders":"8","displacement":"400.0","horsepower":"230.0","weight":"4278.0","acceleration":"9.5","year":"1973","origin":"1","name":"pontiac grand prix"}
+{"_c0":"117","mpg":"29.0","cylinders":"4","displacement":"68.0","horsepower":"49.0","weight":"1867.0","acceleration":"19.5","year":"1973","origin":"2","name":"fiat 128"}
+{"_c0":"118","mpg":"24.0","cylinders":"4","displacement":"116.0","horsepower":"75.0","weight":"2158.0","acceleration":"15.5","year":"1973","origin":"2","name":"opel manta"}
+{"_c0":"119","mpg":"20.0","cylinders":"4","displacement":"114.0","horsepower":"91.0","weight":"2582.0","acceleration":"14.0","year":"1973","origin":"2","name":"audi 100ls"}
+{"_c0":"120","mpg":"19.0","cylinders":"4","displacement":"121.0","horsepower":"112.0","weight":"2868.0","acceleration":"15.5","year":"1973","origin":"2","name":"volvo 144ea"}
+{"_c0":"121","mpg":"15.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"3399.0","acceleration":"11.0","year":"1973","origin":"1","name":"dodge dart custom"}
+{"_c0":"122","mpg":"24.0","cylinders":"4","displacement":"121.0","horsepower":"110.0","weight":"2660.0","acceleration":"14.0","year":"1973","origin":"2","name":"saab 99le"}
+{"_c0":"123","mpg":"20.0","cylinders":"6","displacement":"156.0","horsepower":"122.0","weight":"2807.0","acceleration":"13.5","year":"1973","origin":"3","name":"toyota mark ii"}
+{"_c0":"124","mpg":"11.0","cylinders":"8","displacement":"350.0","horsepower":"180.0","weight":"3664.0","acceleration":"11.0","year":"1973","origin":"1","name":"oldsmobile omega"}
+{"_c0":"125","mpg":"20.0","cylinders":"6","displacement":"198.0","horsepower":"95.0","weight":"3102.0","acceleration":"16.5","year":"1974","origin":"1","name":"plymouth duster"}
+{"_c0":"126","mpg":"21.0","cylinders":"6","displacement":"200.0","weight":"2875.0","acceleration":"17.0","year":"1974","origin":"1","name":"ford maverick"}
+{"_c0":"127","mpg":"19.0","cylinders":"6","displacement":"232.0","horsepower":"100.0","weight":"2901.0","acceleration":"16.0","year":"1974","origin":"1","name":"amc hornet"}
+{"_c0":"128","mpg":"15.0","cylinders":"6","displacement":"250.0","horsepower":"100.0","weight":"3336.0","acceleration":"17.0","year":"1974","origin":"1","name":"chevrolet nova"}
+{"_c0":"129","mpg":"31.0","cylinders":"4","displacement":"79.0","horsepower":"67.0","weight":"1950.0","acceleration":"19.0","year":"1974","origin":"3","name":"datsun b210"}
+{"_c0":"130","mpg":"26.0","cylinders":"4","displacement":"122.0","horsepower":"80.0","weight":"2451.0","acceleration":"16.5","year":"1974","origin":"1","name":"ford pinto"}
+{"_c0":"131","mpg":"32.0","cylinders":"4","displacement":"71.0","horsepower":"65.0","weight":"1836.0","acceleration":"21.0","year":"1974","origin":"3","name":"toyota corolla 1200"}
+{"_c0":"132","mpg":"25.0","cylinders":"4","displacement":"140.0","horsepower":"75.0","weight":"2542.0","acceleration":"17.0","year":"1974","origin":"1","name":"chevrolet vega"}
+{"_c0":"133","mpg":"16.0","cylinders":"6","displacement":"250.0","horsepower":"100.0","weight":"3781.0","acceleration":"17.0","year":"1974","origin":"1","name":"chevrolet chevelle malibu classic"}
+{"_c0":"134","mpg":"16.0","cylinders":"6","displacement":"258.0","horsepower":"110.0","weight":"3632.0","acceleration":"18.0","year":"1974","origin":"1","name":"amc matador"}
+{"_c0":"135","mpg":"18.0","cylinders":"6","displacement":"225.0","horsepower":"105.0","weight":"3613.0","acceleration":"16.5","year":"1974","origin":"1","name":"plymouth satellite sebring"}
+{"_c0":"136","mpg":"16.0","cylinders":"8","displacement":"302.0","horsepower":"140.0","weight":"4141.0","acceleration":"14.0","year":"1974","origin":"1","name":"ford gran torino"}
+{"_c0":"137","mpg":"13.0","cylinders":"8","displacement":"350.0","horsepower":"150.0","weight":"4699.0","acceleration":"14.5","year":"1974","origin":"1","name":"buick century luxus (sw)"}
+{"_c0":"138","mpg":"14.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"4457.0","acceleration":"13.5","year":"1974","origin":"1","name":"dodge coronet custom (sw)"}
+{"_c0":"139","mpg":"14.0","cylinders":"8","displacement":"302.0","horsepower":"140.0","weight":"4638.0","acceleration":"16.0","year":"1974","origin":"1","name":"ford gran torino (sw)"}
+{"_c0":"140","mpg":"14.0","cylinders":"8","displacement":"304.0","horsepower":"150.0","weight":"4257.0","acceleration":"15.5","year":"1974","origin":"1","name":"amc matador (sw)"}
+{"_c0":"141","mpg":"29.0","cylinders":"4","displacement":"98.0","horsepower":"83.0","weight":"2219.0","acceleration":"16.5","year":"1974","origin":"2","name":"audi fox"}
+{"_c0":"142","mpg":"26.0","cylinders":"4","displacement":"79.0","horsepower":"67.0","weight":"1963.0","acceleration":"15.5","year":"1974","origin":"2","name":"volkswagen dasher"}
+{"_c0":"143","mpg":"26.0","cylinders":"4","displacement":"97.0","horsepower":"78.0","weight":"2300.0","acceleration":"14.5","year":"1974","origin":"2","name":"opel manta"}
+{"_c0":"144","mpg":"31.0","cylinders":"4","displacement":"76.0","horsepower":"52.0","weight":"1649.0","acceleration":"16.5","year":"1974","origin":"3","name":"toyota corona"}
+{"_c0":"145","mpg":"32.0","cylinders":"4","displacement":"83.0","horsepower":"61.0","weight":"2003.0","acceleration":"19.0","year":"1974","origin":"3","name":"datsun 710"}
+{"_c0":"146","mpg":"28.0","cylinders":"4","displacement":"90.0","horsepower":"75.0","weight":"2125.0","acceleration":"14.5","year":"1974","origin":"1","name":"dodge colt"}
+{"_c0":"147","mpg":"24.0","cylinders":"4","displacement":"90.0","horsepower":"75.0","weight":"2108.0","acceleration":"15.5","year":"1974","origin":"2","name":"fiat 128"}
+{"_c0":"148","mpg":"26.0","cylinders":"4","displacement":"116.0","horsepower":"75.0","weight":"2246.0","acceleration":"14.0","year":"1974","origin":"2","name":"fiat 124 tc"}
+{"_c0":"149","mpg":"24.0","cylinders":"4","displacement":"120.0","horsepower":"97.0","weight":"2489.0","acceleration":"15.0","year":"1974","origin":"3","name":"honda civic"}
+{"_c0":"150","mpg":"26.0","cylinders":"4","displacement":"108.0","horsepower":"93.0","weight":"2391.0","acceleration":"15.5","year":"1974","origin":"3","name":"subaru"}
+{"_c0":"151","mpg":"31.0","cylinders":"4","displacement":"79.0","horsepower":"67.0","weight":"2000.0","acceleration":"16.0","year":"1974","origin":"2","name":"fiat x1.9"}
+{"_c0":"152","mpg":"19.0","cylinders":"6","displacement":"225.0","horsepower":"95.0","weight":"3264.0","acceleration":"16.0","year":"1975","origin":"1","name":"plymouth valiant custom"}
+{"_c0":"153","mpg":"18.0","cylinders":"6","displacement":"250.0","horsepower":"105.0","weight":"3459.0","acceleration":"16.0","year":"1975","origin":"1","name":"chevrolet nova"}
+{"_c0":"154","mpg":"15.0","cylinders":"6","displacement":"250.0","horsepower":"72.0","weight":"3432.0","acceleration":"21.0","year":"1975","origin":"1","name":"mercury monarch"}
+{"_c0":"155","mpg":"15.0","cylinders":"6","displacement":"250.0","horsepower":"72.0","weight":"3158.0","acceleration":"19.5","year":"1975","origin":"1","name":"ford maverick"}
+{"_c0":"156","mpg":"16.0","cylinders":"8","displacement":"400.0","horsepower":"170.0","weight":"4668.0","acceleration":"11.5","year":"1975","origin":"1","name":"pontiac catalina"}
+{"_c0":"157","mpg":"15.0","cylinders":"8","displacement":"350.0","horsepower":"145.0","weight":"4440.0","acceleration":"14.0","year":"1975","origin":"1","name":"chevrolet bel air"}
+{"_c0":"158","mpg":"16.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"4498.0","acceleration":"14.5","year":"1975","origin":"1","name":"plymouth grand fury"}
+{"_c0":"159","mpg":"14.0","cylinders":"8","displacement":"351.0","horsepower":"148.0","weight":"4657.0","acceleration":"13.5","year":"1975","origin":"1","name":"ford ltd"}
+{"_c0":"160","mpg":"17.0","cylinders":"6","displacement":"231.0","horsepower":"110.0","weight":"3907.0","acceleration":"21.0","year":"1975","origin":"1","name":"buick century"}
+{"_c0":"161","mpg":"16.0","cylinders":"6","displacement":"250.0","horsepower":"105.0","weight":"3897.0","acceleration":"18.5","year":"1975","origin":"1","name":"chevroelt chevelle malibu"}
+{"_c0":"162","mpg":"15.0","cylinders":"6","displacement":"258.0","horsepower":"110.0","weight":"3730.0","acceleration":"19.0","year":"1975","origin":"1","name":"amc matador"}
+{"_c0":"163","mpg":"18.0","cylinders":"6","displacement":"225.0","horsepower":"95.0","weight":"3785.0","acceleration":"19.0","year":"1975","origin":"1","name":"plymouth fury"}
+{"_c0":"164","mpg":"21.0","cylinders":"6","displacement":"231.0","horsepower":"110.0","weight":"3039.0","acceleration":"15.0","year":"1975","origin":"1","name":"buick skyhawk"}
+{"_c0":"165","mpg":"20.0","cylinders":"8","displacement":"262.0","horsepower":"110.0","weight":"3221.0","acceleration":"13.5","year":"1975","origin":"1","name":"chevrolet monza 2+2"}
+{"_c0":"166","mpg":"13.0","cylinders":"8","displacement":"302.0","horsepower":"129.0","weight":"3169.0","acceleration":"12.0","year":"1975","origin":"1","name":"ford mustang ii"}
+{"_c0":"167","mpg":"29.0","cylinders":"4","displacement":"97.0","horsepower":"75.0","weight":"2171.0","acceleration":"16.0","year":"1975","origin":"3","name":"toyota corolla"}
+{"_c0":"168","mpg":"23.0","cylinders":"4","displacement":"140.0","horsepower":"83.0","weight":"2639.0","acceleration":"17.0","year":"1975","origin":"1","name":"ford pinto"}
+{"_c0":"169","mpg":"20.0","cylinders":"6","displacement":"232.0","horsepower":"100.0","weight":"2914.0","acceleration":"16.0","year":"1975","origin":"1","name":"amc gremlin"}
+{"_c0":"170","mpg":"23.0","cylinders":"4","displacement":"140.0","horsepower":"78.0","weight":"2592.0","acceleration":"18.5","year":"1975","origin":"1","name":"pontiac astro"}
+{"_c0":"171","mpg":"24.0","cylinders":"4","displacement":"134.0","horsepower":"96.0","weight":"2702.0","acceleration":"13.5","year":"1975","origin":"3","name":"toyota corona"}
+{"_c0":"172","mpg":"25.0","cylinders":"4","displacement":"90.0","horsepower":"71.0","weight":"2223.0","acceleration":"16.5","year":"1975","origin":"2","name":"volkswagen dasher"}
+{"_c0":"173","mpg":"24.0","cylinders":"4","displacement":"119.0","horsepower":"97.0","weight":"2545.0","acceleration":"17.0","year":"1975","origin":"3","name":"datsun 710"}
+{"_c0":"174","mpg":"18.0","cylinders":"6","displacement":"171.0","horsepower":"97.0","weight":"2984.0","acceleration":"14.5","year":"1975","origin":"1","name":"ford pinto"}
+{"_c0":"175","mpg":"29.0","cylinders":"4","displacement":"90.0","horsepower":"70.0","weight":"1937.0","acceleration":"14.0","year":"1975","origin":"2","name":"volkswagen rabbit"}
+{"_c0":"176","mpg":"19.0","cylinders":"6","displacement":"232.0","horsepower":"90.0","weight":"3211.0","acceleration":"17.0","year":"1975","origin":"1","name":"amc pacer"}
+{"_c0":"177","mpg":"23.0","cylinders":"4","displacement":"115.0","horsepower":"95.0","weight":"2694.0","acceleration":"15.0","year":"1975","origin":"2","name":"audi 100ls"}
+{"_c0":"178","mpg":"23.0","cylinders":"4","displacement":"120.0","horsepower":"88.0","weight":"2957.0","acceleration":"17.0","year":"1975","origin":"2","name":"peugeot 504"}
+{"_c0":"179","mpg":"22.0","cylinders":"4","displacement":"121.0","horsepower":"98.0","weight":"2945.0","acceleration":"14.5","year":"1975","origin":"2","name":"volvo 244dl"}
+{"_c0":"180","mpg":"25.0","cylinders":"4","displacement":"121.0","horsepower":"115.0","weight":"2671.0","acceleration":"13.5","year":"1975","origin":"2","name":"saab 99le"}
+{"_c0":"181","mpg":"33.0","cylinders":"4","displacement":"91.0","horsepower":"53.0","weight":"1795.0","acceleration":"17.5","year":"1975","origin":"3","name":"honda civic cvcc"}
+{"_c0":"182","mpg":"28.0","cylinders":"4","displacement":"107.0","horsepower":"86.0","weight":"2464.0","acceleration":"15.5","year":"1976","origin":"2","name":"fiat 131"}
+{"_c0":"183","mpg":"25.0","cylinders":"4","displacement":"116.0","horsepower":"81.0","weight":"2220.0","acceleration":"16.9","year":"1976","origin":"2","name":"opel 1900"}
+{"_c0":"184","mpg":"25.0","cylinders":"4","displacement":"140.0","horsepower":"92.0","weight":"2572.0","acceleration":"14.9","year":"1976","origin":"1","name":"capri ii"}
+{"_c0":"185","mpg":"26.0","cylinders":"4","displacement":"98.0","horsepower":"79.0","weight":"2255.0","acceleration":"17.7","year":"1976","origin":"1","name":"dodge colt"}
+{"_c0":"186","mpg":"27.0","cylinders":"4","displacement":"101.0","horsepower":"83.0","weight":"2202.0","acceleration":"15.3","year":"1976","origin":"2","name":"renault 12tl"}
+{"_c0":"187","mpg":"17.5","cylinders":"8","displacement":"305.0","horsepower":"140.0","weight":"4215.0","acceleration":"13.0","year":"1976","origin":"1","name":"chevrolet chevelle malibu classic"}
+{"_c0":"188","mpg":"16.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"4190.0","acceleration":"13.0","year":"1976","origin":"1","name":"dodge coronet brougham"}
+{"_c0":"189","mpg":"15.5","cylinders":"8","displacement":"304.0","horsepower":"120.0","weight":"3962.0","acceleration":"13.9","year":"1976","origin":"1","name":"amc matador"}
+{"_c0":"190","mpg":"14.5","cylinders":"8","displacement":"351.0","horsepower":"152.0","weight":"4215.0","acceleration":"12.8","year":"1976","origin":"1","name":"ford gran torino"}
+{"_c0":"191","mpg":"22.0","cylinders":"6","displacement":"225.0","horsepower":"100.0","weight":"3233.0","acceleration":"15.4","year":"1976","origin":"1","name":"plymouth valiant"}
+{"_c0":"192","mpg":"22.0","cylinders":"6","displacement":"250.0","horsepower":"105.0","weight":"3353.0","acceleration":"14.5","year":"1976","origin":"1","name":"chevrolet nova"}
+{"_c0":"193","mpg":"24.0","cylinders":"6","displacement":"200.0","horsepower":"81.0","weight":"3012.0","acceleration":"17.6","year":"1976","origin":"1","name":"ford maverick"}
+{"_c0":"194","mpg":"22.5","cylinders":"6","displacement":"232.0","horsepower":"90.0","weight":"3085.0","acceleration":"17.6","year":"1976","origin":"1","name":"amc hornet"}
+{"_c0":"195","mpg":"29.0","cylinders":"4","displacement":"85.0","horsepower":"52.0","weight":"2035.0","acceleration":"22.2","year":"1976","origin":"1","name":"chevrolet chevette"}
+{"_c0":"196","mpg":"24.5","cylinders":"4","displacement":"98.0","horsepower":"60.0","weight":"2164.0","acceleration":"22.1","year":"1976","origin":"1","name":"chevrolet woody"}
+{"_c0":"197","mpg":"29.0","cylinders":"4","displacement":"90.0","horsepower":"70.0","weight":"1937.0","acceleration":"14.2","year":"1976","origin":"2","name":"vw rabbit"}
+{"_c0":"198","mpg":"33.0","cylinders":"4","displacement":"91.0","horsepower":"53.0","weight":"1795.0","acceleration":"17.4","year":"1976","origin":"3","name":"honda civic"}
+{"_c0":"199","mpg":"20.0","cylinders":"6","displacement":"225.0","horsepower":"100.0","weight":"3651.0","acceleration":"17.7","year":"1976","origin":"1","name":"dodge aspen se"}
+{"_c0":"200","mpg":"18.0","cylinders":"6","displacement":"250.0","horsepower":"78.0","weight":"3574.0","acceleration":"21.0","year":"1976","origin":"1","name":"ford granada ghia"}
+{"_c0":"201","mpg":"18.5","cylinders":"6","displacement":"250.0","horsepower":"110.0","weight":"3645.0","acceleration":"16.2","year":"1976","origin":"1","name":"pontiac ventura sj"}
+{"_c0":"202","mpg":"17.5","cylinders":"6","displacement":"258.0","horsepower":"95.0","weight":"3193.0","acceleration":"17.8","year":"1976","origin":"1","name":"amc pacer d/l"}
+{"_c0":"203","mpg":"29.5","cylinders":"4","displacement":"97.0","horsepower":"71.0","weight":"1825.0","acceleration":"12.2","year":"1976","origin":"2","name":"volkswagen rabbit"}
+{"_c0":"204","mpg":"32.0","cylinders":"4","displacement":"85.0","horsepower":"70.0","weight":"1990.0","acceleration":"17.0","year":"1976","origin":"3","name":"datsun b-210"}
+{"_c0":"205","mpg":"28.0","cylinders":"4","displacement":"97.0","horsepower":"75.0","weight":"2155.0","acceleration":"16.4","year":"1976","origin":"3","name":"toyota corolla"}
+{"_c0":"206","mpg":"26.5","cylinders":"4","displacement":"140.0","horsepower":"72.0","weight":"2565.0","acceleration":"13.6","year":"1976","origin":"1","name":"ford pinto"}
+{"_c0":"207","mpg":"20.0","cylinders":"4","displacement":"130.0","horsepower":"102.0","weight":"3150.0","acceleration":"15.7","year":"1976","origin":"2","name":"volvo 245"}
+{"_c0":"208","mpg":"13.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"3940.0","acceleration":"13.2","year":"1976","origin":"1","name":"plymouth volare premier v8"}
+{"_c0":"209","mpg":"19.0","cylinders":"4","displacement":"120.0","horsepower":"88.0","weight":"3270.0","acceleration":"21.9","year":"1976","origin":"2","name":"peugeot 504"}
+{"_c0":"210","mpg":"19.0","cylinders":"6","displacement":"156.0","horsepower":"108.0","weight":"2930.0","acceleration":"15.5","year":"1976","origin":"3","name":"toyota mark ii"}
+{"_c0":"211","mpg":"16.5","cylinders":"6","displacement":"168.0","horsepower":"120.0","weight":"3820.0","acceleration":"16.7","year":"1976","origin":"2","name":"mercedes-benz 280s"}
+{"_c0":"212","mpg":"16.5","cylinders":"8","displacement":"350.0","horsepower":"180.0","weight":"4380.0","acceleration":"12.1","year":"1976","origin":"1","name":"cadillac seville"}
+{"_c0":"213","mpg":"13.0","cylinders":"8","displacement":"350.0","horsepower":"145.0","weight":"4055.0","acceleration":"12.0","year":"1976","origin":"1","name":"chevy c10"}
+{"_c0":"214","mpg":"13.0","cylinders":"8","displacement":"302.0","horsepower":"130.0","weight":"3870.0","acceleration":"15.0","year":"1976","origin":"1","name":"ford f108"}
+{"_c0":"215","mpg":"13.0","cylinders":"8","displacement":"318.0","horsepower":"150.0","weight":"3755.0","acceleration":"14.0","year":"1976","origin":"1","name":"dodge d100"}
+{"_c0":"216","mpg":"31.5","cylinders":"4","displacement":"98.0","horsepower":"68.0","weight":"2045.0","acceleration":"18.5","year":"1977","origin":"3","name":"honda accord cvcc"}
+{"_c0":"217","mpg":"30.0","cylinders":"4","displacement":"111.0","horsepower":"80.0","weight":"2155.0","acceleration":"14.8","year":"1977","origin":"1","name":"buick opel isuzu deluxe"}
+{"_c0":"218","mpg":"36.0","cylinders":"4","displacement":"79.0","horsepower":"58.0","weight":"1825.0","acceleration":"18.6","year":"1977","origin":"2","name":"renault 5 gtl"}
+{"_c0":"219","mpg":"25.5","cylinders":"4","displacement":"122.0","horsepower":"96.0","weight":"2300.0","acceleration":"15.5","year":"1977","origin":"1","name":"plymouth arrow gs"}
+{"_c0":"220","mpg":"33.5","cylinders":"4","displacement":"85.0","horsepower":"70.0","weight":"1945.0","acceleration":"16.8","year":"1977","origin":"3","name":"datsun f-10 hatchback"}
+{"_c0":"221","mpg":"17.5","cylinders":"8","displacement":"305.0","horsepower":"145.0","weight":"3880.0","acceleration":"12.5","year":"1977","origin":"1","name":"chevrolet caprice classic"}
+{"_c0":"222","mpg":"17.0","cylinders":"8","displacement":"260.0","horsepower":"110.0","weight":"4060.0","acceleration":"19.0","year":"1977","origin":"1","name":"oldsmobile cutlass supreme"}
+{"_c0":"223","mpg":"15.5","cylinders":"8","displacement":"318.0","horsepower":"145.0","weight":"4140.0","acceleration":"13.7","year":"1977","origin":"1","name":"dodge monaco brougham"}
+{"_c0":"224","mpg":"15.0","cylinders":"8","displacement":"302.0","horsepower":"130.0","weight":"4295.0","acceleration":"14.9","year":"1977","origin":"1","name":"mercury cougar brougham"}
+{"_c0":"225","mpg":"17.5","cylinders":"6","displacement":"250.0","horsepower":"110.0","weight":"3520.0","acceleration":"16.4","year":"1977","origin":"1","name":"chevrolet concours"}
+{"_c0":"226","mpg":"20.5","cylinders":"6","displacement":"231.0","horsepower":"105.0","weight":"3425.0","acceleration":"16.9","year":"1977","origin":"1","name":"buick skylark"}
+{"_c0":"227","mpg":"19.0","cylinders":"6","displacement":"225.0","horsepower":"100.0","weight":"3630.0","acceleration":"17.7","year":"1977","origin":"1","name":"plymouth volare custom"}
+{"_c0":"228","mpg":"18.5","cylinders":"6","displacement":"250.0","horsepower":"98.0","weight":"3525.0","acceleration":"19.0","year":"1977","origin":"1","name":"ford granada"}
+{"_c0":"229","mpg":"16.0","cylinders":"8","displacement":"400.0","horsepower":"180.0","weight":"4220.0","acceleration":"11.1","year":"1977","origin":"1","name":"pontiac grand prix lj"}
+{"_c0":"230","mpg":"15.5","cylinders":"8","displacement":"350.0","horsepower":"170.0","weight":"4165.0","acceleration":"11.4","year":"1977","origin":"1","name":"chevrolet monte carlo landau"}
+{"_c0":"231","mpg":"15.5","cylinders":"8","displacement":"400.0","horsepower":"190.0","weight":"4325.0","acceleration":"12.2","year":"1977","origin":"1","name":"chrysler cordoba"}
+{"_c0":"232","mpg":"16.0","cylinders":"8","displacement":"351.0","horsepower":"149.0","weight":"4335.0","acceleration":"14.5","year":"1977","origin":"1","name":"ford thunderbird"}
+{"_c0":"233","mpg":"29.0","cylinders":"4","displacement":"97.0","horsepower":"78.0","weight":"1940.0","acceleration":"14.5","year":"1977","origin":"2","name":"volkswagen rabbit custom"}
+{"_c0":"234","mpg":"24.5","cylinders":"4","displacement":"151.0","horsepower":"88.0","weight":"2740.0","acceleration":"16.0","year":"1977","origin":"1","name":"pontiac sunbird coupe"}
+{"_c0":"235","mpg":"26.0","cylinders":"4","displacement":"97.0","horsepower":"75.0","weight":"2265.0","acceleration":"18.2","year":"1977","origin":"3","name":"toyota corolla liftback"}
+{"_c0":"236","mpg":"25.5","cylinders":"4","displacement":"140.0","horsepower":"89.0","weight":"2755.0","acceleration":"15.8","year":"1977","origin":"1","name":"ford mustang ii 2+2"}
+{"_c0":"237","mpg":"30.5","cylinders":"4","displacement":"98.0","horsepower":"63.0","weight":"2051.0","acceleration":"17.0","year":"1977","origin":"1","name":"chevrolet chevette"}
+{"_c0":"238","mpg":"33.5","cylinders":"4","displacement":"98.0","horsepower":"83.0","weight":"2075.0","acceleration":"15.9","year":"1977","origin":"1","name":"dodge colt m/m"}
+{"_c0":"239","mpg":"30.0","cylinders":"4","displacement":"97.0","horsepower":"67.0","weight":"1985.0","acceleration":"16.4","year":"1977","origin":"3","name":"subaru dl"}
+{"_c0":"240","mpg":"30.5","cylinders":"4","displacement":"97.0","horsepower":"78.0","weight":"2190.0","acceleration":"14.1","year":"1977","origin":"2","name":"volkswagen dasher"}
+{"_c0":"241","mpg":"22.0","cylinders":"6","displacement":"146.0","horsepower":"97.0","weight":"2815.0","acceleration":"14.5","year":"1977","origin":"3","name":"datsun 810"}
+{"_c0":"242","mpg":"21.5","cylinders":"4","displacement":"121.0","horsepower":"110.0","weight":"2600.0","acceleration":"12.8","year":"1977","origin":"2","name":"bmw 320i"}
+{"_c0":"243","mpg":"21.5","cylinders":"3","displacement":"80.0","horsepower":"110.0","weight":"2720.0","acceleration":"13.5","year":"1977","origin":"3","name":"mazda rx-4"}
+{"_c0":"244","mpg":"43.1","cylinders":"4","displacement":"90.0","horsepower":"48.0","weight":"1985.0","acceleration":"21.5","year":"1978","origin":"2","name":"volkswagen rabbit custom diesel"}
+{"_c0":"245","mpg":"36.1","cylinders":"4","displacement":"98.0","horsepower":"66.0","weight":"1800.0","acceleration":"14.4","year":"1978","origin":"1","name":"ford fiesta"}
+{"_c0":"246","mpg":"32.8","cylinders":"4","displacement":"78.0","horsepower":"52.0","weight":"1985.0","acceleration":"19.4","year":"1978","origin":"3","name":"mazda glc deluxe"}
+{"_c0":"247","mpg":"39.4","cylinders":"4","displacement":"85.0","horsepower":"70.0","weight":"2070.0","acceleration":"18.6","year":"1978","origin":"3","name":"datsun b210 gx"}
+{"_c0":"248","mpg":"36.1","cylinders":"4","displacement":"91.0","horsepower":"60.0","weight":"1800.0","acceleration":"16.4","year":"1978","origin":"3","name":"honda civic cvcc"}
+{"_c0":"249","mpg":"19.9","cylinders":"8","displacement":"260.0","horsepower":"110.0","weight":"3365.0","acceleration":"15.5","year":"1978","origin":"1","name":"oldsmobile cutlass salon brougham"}
+{"_c0":"250","mpg":"19.4","cylinders":"8","displacement":"318.0","horsepower":"140.0","weight":"3735.0","acceleration":"13.2","year":"1978","origin":"1","name":"dodge diplomat"}
+{"_c0":"251","mpg":"20.2","cylinders":"8","displacement":"302.0","horsepower":"139.0","weight":"3570.0","acceleration":"12.8","year":"1978","origin":"1","name":"mercury monarch ghia"}
+{"_c0":"252","mpg":"19.2","cylinders":"6","displacement":"231.0","horsepower":"105.0","weight":"3535.0","acceleration":"19.2","year":"1978","origin":"1","name":"pontiac phoenix lj"}
+{"_c0":"253","mpg":"20.5","cylinders":"6","displacement":"200.0","horsepower":"95.0","weight":"3155.0","acceleration":"18.2","year":"1978","origin":"1","name":"chevrolet malibu"}
+{"_c0":"254","mpg":"20.2","cylinders":"6","displacement":"200.0","horsepower":"85.0","weight":"2965.0","acceleration":"15.8","year":"1978","origin":"1","name":"ford fairmont (auto)"}
+{"_c0":"255","mpg":"25.1","cylinders":"4","displacement":"140.0","horsepower":"88.0","weight":"2720.0","acceleration":"15.4","year":"1978","origin":"1","name":"ford fairmont (man)"}
+{"_c0":"256","mpg":"20.5","cylinders":"6","displacement":"225.0","horsepower":"100.0","weight":"3430.0","acceleration":"17.2","year":"1978","origin":"1","name":"plymouth volare"}
+{"_c0":"257","mpg":"19.4","cylinders":"6","displacement":"232.0","horsepower":"90.0","weight":"3210.0","acceleration":"17.2","year":"1978","origin":"1","name":"amc concord"}
+{"_c0":"258","mpg":"20.6","cylinders":"6","displacement":"231.0","horsepower":"105.0","weight":"3380.0","acceleration":"15.8","year":"1978","origin":"1","name":"buick century special"}
+{"_c0":"259","mpg":"20.8","cylinders":"6","displacement":"200.0","horsepower":"85.0","weight":"3070.0","acceleration":"16.7","year":"1978","origin":"1","name":"mercury zephyr"}
+{"_c0":"260","mpg":"18.6","cylinders":"6","displacement":"225.0","horsepower":"110.0","weight":"3620.0","acceleration":"18.7","year":"1978","origin":"1","name":"dodge aspen"}
+{"_c0":"261","mpg":"18.1","cylinders":"6","displacement":"258.0","horsepower":"120.0","weight":"3410.0","acceleration":"15.1","year":"1978","origin":"1","name":"amc concord d/l"}
+{"_c0":"262","mpg":"19.2","cylinders":"8","displacement":"305.0","horsepower":"145.0","weight":"3425.0","acceleration":"13.2","year":"1978","origin":"1","name":"chevrolet monte carlo landau"}
+{"_c0":"263","mpg":"17.7","cylinders":"6","displacement":"231.0","horsepower":"165.0","weight":"3445.0","acceleration":"13.4","year":"1978","origin":"1","name":"buick regal sport coupe (turbo)"}
+{"_c0":"264","mpg":"18.1","cylinders":"8","displacement":"302.0","horsepower":"139.0","weight":"3205.0","acceleration":"11.2","year":"1978","origin":"1","name":"ford futura"}
+{"_c0":"265","mpg":"17.5","cylinders":"8","displacement":"318.0","horsepower":"140.0","weight":"4080.0","acceleration":"13.7","year":"1978","origin":"1","name":"dodge magnum xe"}
+{"_c0":"266","mpg":"30.0","cylinders":"4","displacement":"98.0","horsepower":"68.0","weight":"2155.0","acceleration":"16.5","year":"1978","origin":"1","name":"chevrolet chevette"}
+{"_c0":"267","mpg":"27.5","cylinders":"4","displacement":"134.0","horsepower":"95.0","weight":"2560.0","acceleration":"14.2","year":"1978","origin":"3","name":"toyota corona"}
+{"_c0":"268","mpg":"27.2","cylinders":"4","displacement":"119.0","horsepower":"97.0","weight":"2300.0","acceleration":"14.7","year":"1978","origin":"3","name":"datsun 510"}
+{"_c0":"269","mpg":"30.9","cylinders":"4","displacement":"105.0","horsepower":"75.0","weight":"2230.0","acceleration":"14.5","year":"1978","origin":"1","name":"dodge omni"}
+{"_c0":"270","mpg":"21.1","cylinders":"4","displacement":"134.0","horsepower":"95.0","weight":"2515.0","acceleration":"14.8","year":"1978","origin":"3","name":"toyota celica gt liftback"}
+{"_c0":"271","mpg":"23.2","cylinders":"4","displacement":"156.0","horsepower":"105.0","weight":"2745.0","acceleration":"16.7","year":"1978","origin":"1","name":"plymouth sapporo"}
+{"_c0":"272","mpg":"23.8","cylinders":"4","displacement":"151.0","horsepower":"85.0","weight":"2855.0","acceleration":"17.6","year":"1978","origin":"1","name":"oldsmobile starfire sx"}
+{"_c0":"273","mpg":"23.9","cylinders":"4","displacement":"119.0","horsepower":"97.0","weight":"2405.0","acceleration":"14.9","year":"1978","origin":"3","name":"datsun 200-sx"}
+{"_c0":"274","mpg":"20.3","cylinders":"5","displacement":"131.0","horsepower":"103.0","weight":"2830.0","acceleration":"15.9","year":"1978","origin":"2","name":"audi 5000"}
+{"_c0":"275","mpg":"17.0","cylinders":"6","displacement":"163.0","horsepower":"125.0","weight":"3140.0","acceleration":"13.6","year":"1978","origin":"2","name":"volvo 264gl"}
+{"_c0":"276","mpg":"21.6","cylinders":"4","displacement":"121.0","horsepower":"115.0","weight":"2795.0","acceleration":"15.7","year":"1978","origin":"2","name":"saab 99gle"}
+{"_c0":"277","mpg":"16.2","cylinders":"6","displacement":"163.0","horsepower":"133.0","weight":"3410.0","acceleration":"15.8","year":"1978","origin":"2","name":"peugeot 604sl"}
+{"_c0":"278","mpg":"31.5","cylinders":"4","displacement":"89.0","horsepower":"71.0","weight":"1990.0","acceleration":"14.9","year":"1978","origin":"2","name":"volkswagen scirocco"}
+{"_c0":"279","mpg":"29.5","cylinders":"4","displacement":"98.0","horsepower":"68.0","weight":"2135.0","acceleration":"16.6","year":"1978","origin":"3","name":"honda accord lx"}
+{"_c0":"280","mpg":"21.5","cylinders":"6","displacement":"231.0","horsepower":"115.0","weight":"3245.0","acceleration":"15.4","year":"1979","origin":"1","name":"pontiac lemans v6"}
+{"_c0":"281","mpg":"19.8","cylinders":"6","displacement":"200.0","horsepower":"85.0","weight":"2990.0","acceleration":"18.2","year":"1979","origin":"1","name":"mercury zephyr 6"}
+{"_c0":"282","mpg":"22.3","cylinders":"4","displacement":"140.0","horsepower":"88.0","weight":"2890.0","acceleration":"17.3","year":"1979","origin":"1","name":"ford fairmont 4"}
+{"_c0":"283","mpg":"20.2","cylinders":"6","displacement":"232.0","horsepower":"90.0","weight":"3265.0","acceleration":"18.2","year":"1979","origin":"1","name":"amc concord dl 6"}
+{"_c0":"284","mpg":"20.6","cylinders":"6","displacement":"225.0","horsepower":"110.0","weight":"3360.0","acceleration":"16.6","year":"1979","origin":"1","name":"dodge aspen 6"}
+{"_c0":"285","mpg":"17.0","cylinders":"8","displacement":"305.0","horsepower":"130.0","weight":"3840.0","acceleration":"15.4","year":"1979","origin":"1","name":"chevrolet caprice classic"}
+{"_c0":"286","mpg":"17.6","cylinders":"8","displacement":"302.0","horsepower":"129.0","weight":"3725.0","acceleration":"13.4","year":"1979","origin":"1","name":"ford ltd landau"}
+{"_c0":"287","mpg":"16.5","cylinders":"8","displacement":"351.0","horsepower":"138.0","weight":"3955.0","acceleration":"13.2","year":"1979","origin":"1","name":"mercury grand marquis"}
+{"_c0":"288","mpg":"18.2","cylinders":"8","displacement":"318.0","horsepower":"135.0","weight":"3830.0","acceleration":"15.2","year":"1979","origin":"1","name":"dodge st. regis"}
+{"_c0":"289","mpg":"16.9","cylinders":"8","displacement":"350.0","horsepower":"155.0","weight":"4360.0","acceleration":"14.9","year":"1979","origin":"1","name":"buick estate wagon (sw)"}
+{"_c0":"290","mpg":"15.5","cylinders":"8","displacement":"351.0","horsepower":"142.0","weight":"4054.0","acceleration":"14.3","year":"1979","origin":"1","name":"ford country squire (sw)"}
+{"_c0":"291","mpg":"19.2","cylinders":"8","displacement":"267.0","horsepower":"125.0","weight":"3605.0","acceleration":"15.0","year":"1979","origin":"1","name":"chevrolet malibu classic (sw)"}
+{"_c0":"292","mpg":"18.5","cylinders":"8","displacement":"360.0","horsepower":"150.0","weight":"3940.0","acceleration":"13.0","year":"1979","origin":"1","name":"chrysler lebaron town @ country (sw)"}
+{"_c0":"293","mpg":"31.9","cylinders":"4","displacement":"89.0","horsepower":"71.0","weight":"1925.0","acceleration":"14.0","year":"1979","origin":"2","name":"vw rabbit custom"}
+{"_c0":"294","mpg":"34.1","cylinders":"4","displacement":"86.0","horsepower":"65.0","weight":"1975.0","acceleration":"15.2","year":"1979","origin":"3","name":"maxda glc deluxe"}
+{"_c0":"295","mpg":"35.7","cylinders":"4","displacement":"98.0","horsepower":"80.0","weight":"1915.0","acceleration":"14.4","year":"1979","origin":"1","name":"dodge colt hatchback custom"}
+{"_c0":"296","mpg":"27.4","cylinders":"4","displacement":"121.0","horsepower":"80.0","weight":"2670.0","acceleration":"15.0","year":"1979","origin":"1","name":"amc spirit dl"}
+{"_c0":"297","mpg":"25.4","cylinders":"5","displacement":"183.0","horsepower":"77.0","weight":"3530.0","acceleration":"20.1","year":"1979","origin":"2","name":"mercedes benz 300d"}
+{"_c0":"298","mpg":"23.0","cylinders":"8","displacement":"350.0","horsepower":"125.0","weight":"3900.0","acceleration":"17.4","year":"1979","origin":"1","name":"cadillac eldorado"}
+{"_c0":"299","mpg":"27.2","cylinders":"4","displacement":"141.0","horsepower":"71.0","weight":"3190.0","acceleration":"24.8","year":"1979","origin":"2","name":"peugeot 504"}
+{"_c0":"300","mpg":"23.9","cylinders":"8","displacement":"260.0","horsepower":"90.0","weight":"3420.0","acceleration":"22.2","year":"1979","origin":"1","name":"oldsmobile cutlass salon brougham"}
+{"_c0":"301","mpg":"34.2","cylinders":"4","displacement":"105.0","horsepower":"70.0","weight":"2200.0","acceleration":"13.2","year":"1979","origin":"1","name":"plymouth horizon"}
+{"_c0":"302","mpg":"34.5","cylinders":"4","displacement":"105.0","horsepower":"70.0","weight":"2150.0","acceleration":"14.9","year":"1979","origin":"1","name":"plymouth horizon tc3"}
+{"_c0":"303","mpg":"31.8","cylinders":"4","displacement":"85.0","horsepower":"65.0","weight":"2020.0","acceleration":"19.2","year":"1979","origin":"3","name":"datsun 210"}
+{"_c0":"304","mpg":"37.3","cylinders":"4","displacement":"91.0","horsepower":"69.0","weight":"2130.0","acceleration":"14.7","year":"1979","origin":"2","name":"fiat strada custom"}
+{"_c0":"305","mpg":"28.4","cylinders":"4","displacement":"151.0","horsepower":"90.0","weight":"2670.0","acceleration":"16.0","year":"1979","origin":"1","name":"buick skylark limited"}
+{"_c0":"306","mpg":"28.8","cylinders":"6","displacement":"173.0","horsepower":"115.0","weight":"2595.0","acceleration":"11.3","year":"1979","origin":"1","name":"chevrolet citation"}
+{"_c0":"307","mpg":"26.8","cylinders":"6","displacement":"173.0","horsepower":"115.0","weight":"2700.0","acceleration":"12.9","year":"1979","origin":"1","name":"oldsmobile omega brougham"}
+{"_c0":"308","mpg":"33.5","cylinders":"4","displacement":"151.0","horsepower":"90.0","weight":"2556.0","acceleration":"13.2","year":"1979","origin":"1","name":"pontiac phoenix"}
+{"_c0":"309","mpg":"41.5","cylinders":"4","displacement":"98.0","horsepower":"76.0","weight":"2144.0","acceleration":"14.7","year":"1980","origin":"2","name":"vw rabbit"}
+{"_c0":"310","mpg":"38.1","cylinders":"4","displacement":"89.0","horsepower":"60.0","weight":"1968.0","acceleration":"18.8","year":"1980","origin":"3","name":"toyota corolla tercel"}
+{"_c0":"311","mpg":"32.1","cylinders":"4","displacement":"98.0","horsepower":"70.0","weight":"2120.0","acceleration":"15.5","year":"1980","origin":"1","name":"chevrolet chevette"}
+{"_c0":"312","mpg":"37.2","cylinders":"4","displacement":"86.0","horsepower":"65.0","weight":"2019.0","acceleration":"16.4","year":"1980","origin":"3","name":"datsun 310"}
+{"_c0":"313","mpg":"28.0","cylinders":"4","displacement":"151.0","horsepower":"90.0","weight":"2678.0","acceleration":"16.5","year":"1980","origin":"1","name":"chevrolet citation"}
+{"_c0":"314","mpg":"26.4","cylinders":"4","displacement":"140.0","horsepower":"88.0","weight":"2870.0","acceleration":"18.1","year":"1980","origin":"1","name":"ford fairmont"}
+{"_c0":"315","mpg":"24.3","cylinders":"4","displacement":"151.0","horsepower":"90.0","weight":"3003.0","acceleration":"20.1","year":"1980","origin":"1","name":"amc concord"}
+{"_c0":"316","mpg":"19.1","cylinders":"6","displacement":"225.0","horsepower":"90.0","weight":"3381.0","acceleration":"18.7","year":"1980","origin":"1","name":"dodge aspen"}
+{"_c0":"317","mpg":"34.3","cylinders":"4","displacement":"97.0","horsepower":"78.0","weight":"2188.0","acceleration":"15.8","year":"1980","origin":"2","name":"audi 4000"}
+{"_c0":"318","mpg":"29.8","cylinders":"4","displacement":"134.0","horsepower":"90.0","weight":"2711.0","acceleration":"15.5","year":"1980","origin":"3","name":"toyota corona liftback"}
+{"_c0":"319","mpg":"31.3","cylinders":"4","displacement":"120.0","horsepower":"75.0","weight":"2542.0","acceleration":"17.5","year":"1980","origin":"3","name":"mazda 626"}
+{"_c0":"320","mpg":"37.0","cylinders":"4","displacement":"119.0","horsepower":"92.0","weight":"2434.0","acceleration":"15.0","year":"1980","origin":"3","name":"datsun 510 hatchback"}
+{"_c0":"321","mpg":"32.2","cylinders":"4","displacement":"108.0","horsepower":"75.0","weight":"2265.0","acceleration":"15.2","year":"1980","origin":"3","name":"toyota corolla"}
+{"_c0":"322","mpg":"46.6","cylinders":"4","displacement":"86.0","horsepower":"65.0","weight":"2110.0","acceleration":"17.9","year":"1980","origin":"3","name":"mazda glc"}
+{"_c0":"323","mpg":"27.9","cylinders":"4","displacement":"156.0","horsepower":"105.0","weight":"2800.0","acceleration":"14.4","year":"1980","origin":"1","name":"dodge colt"}
+{"_c0":"324","mpg":"40.8","cylinders":"4","displacement":"85.0","horsepower":"65.0","weight":"2110.0","acceleration":"19.2","year":"1980","origin":"3","name":"datsun 210"}
+{"_c0":"325","mpg":"44.3","cylinders":"4","displacement":"90.0","horsepower":"48.0","weight":"2085.0","acceleration":"21.7","year":"1980","origin":"2","name":"vw rabbit c (diesel)"}
+{"_c0":"326","mpg":"43.4","cylinders":"4","displacement":"90.0","horsepower":"48.0","weight":"2335.0","acceleration":"23.7","year":"1980","origin":"2","name":"vw dasher (diesel)"}
+{"_c0":"327","mpg":"36.4","cylinders":"5","displacement":"121.0","horsepower":"67.0","weight":"2950.0","acceleration":"19.9","year":"1980","origin":"2","name":"audi 5000s (diesel)"}
+{"_c0":"328","mpg":"30.0","cylinders":"4","displacement":"146.0","horsepower":"67.0","weight":"3250.0","acceleration":"21.8","year":"1980","origin":"2","name":"mercedes-benz 240d"}
+{"_c0":"329","mpg":"44.6","cylinders":"4","displacement":"91.0","horsepower":"67.0","weight":"1850.0","acceleration":"13.8","year":"1980","origin":"3","name":"honda civic 1500 gl"}
+{"_c0":"330","mpg":"40.9","cylinders":"4","displacement":"85.0","weight":"1835.0","acceleration":"17.3","year":"1980","origin":"2","name":"renault lecar deluxe"}
+{"_c0":"331","mpg":"33.8","cylinders":"4","displacement":"97.0","horsepower":"67.0","weight":"2145.0","acceleration":"18.0","year":"1980","origin":"3","name":"subaru dl"}
+{"_c0":"332","mpg":"29.8","cylinders":"4","displacement":"89.0","horsepower":"62.0","weight":"1845.0","acceleration":"15.3","year":"1980","origin":"2","name":"vokswagen rabbit"}
+{"_c0":"333","mpg":"32.7","cylinders":"6","displacement":"168.0","horsepower":"132.0","weight":"2910.0","acceleration":"11.4","year":"1980","origin":"3","name":"datsun 280-zx"}
+{"_c0":"334","mpg":"23.7","cylinders":"3","displacement":"70.0","horsepower":"100.0","weight":"2420.0","acceleration":"12.5","year":"1980","origin":"3","name":"mazda rx-7 gs"}
+{"_c0":"335","mpg":"35.0","cylinders":"4","displacement":"122.0","horsepower":"88.0","weight":"2500.0","acceleration":"15.1","year":"1980","origin":"2","name":"triumph tr7 coupe"}
+{"_c0":"336","mpg":"23.6","cylinders":"4","displacement":"140.0","weight":"2905.0","acceleration":"14.3","year":"1980","origin":"1","name":"ford mustang cobra"}
+{"_c0":"337","mpg":"32.4","cylinders":"4","displacement":"107.0","horsepower":"72.0","weight":"2290.0","acceleration":"17.0","year":"1980","origin":"3","name":"honda accord"}
+{"_c0":"338","mpg":"27.2","cylinders":"4","displacement":"135.0","horsepower":"84.0","weight":"2490.0","acceleration":"15.7","year":"1981","origin":"1","name":"plymouth reliant"}
+{"_c0":"339","mpg":"26.6","cylinders":"4","displacement":"151.0","horsepower":"84.0","weight":"2635.0","acceleration":"16.4","year":"1981","origin":"1","name":"buick skylark"}
+{"_c0":"340","mpg":"25.8","cylinders":"4","displacement":"156.0","horsepower":"92.0","weight":"2620.0","acceleration":"14.4","year":"1981","origin":"1","name":"dodge aries wagon (sw)"}
+{"_c0":"341","mpg":"23.5","cylinders":"6","displacement":"173.0","horsepower":"110.0","weight":"2725.0","acceleration":"12.6","year":"1981","origin":"1","name":"chevrolet citation"}
+{"_c0":"342","mpg":"30.0","cylinders":"4","displacement":"135.0","horsepower":"84.0","weight":"2385.0","acceleration":"12.9","year":"1981","origin":"1","name":"plymouth reliant"}
+{"_c0":"343","mpg":"39.1","cylinders":"4","displacement":"79.0","horsepower":"58.0","weight":"1755.0","acceleration":"16.9","year":"1981","origin":"3","name":"toyota starlet"}
+{"_c0":"344","mpg":"39.0","cylinders":"4","displacement":"86.0","horsepower":"64.0","weight":"1875.0","acceleration":"16.4","year":"1981","origin":"1","name":"plymouth champ"}
+{"_c0":"345","mpg":"35.1","cylinders":"4","displacement":"81.0","horsepower":"60.0","weight":"1760.0","acceleration":"16.1","year":"1981","origin":"3","name":"honda civic 1300"}
+{"_c0":"346","mpg":"32.3","cylinders":"4","displacement":"97.0","horsepower":"67.0","weight":"2065.0","acceleration":"17.8","year":"1981","origin":"3","name":"subaru"}
+{"_c0":"347","mpg":"37.0","cylinders":"4","displacement":"85.0","horsepower":"65.0","weight":"1975.0","acceleration":"19.4","year":"1981","origin":"3","name":"datsun 210 mpg"}
+{"_c0":"348","mpg":"37.7","cylinders":"4","displacement":"89.0","horsepower":"62.0","weight":"2050.0","acceleration":"17.3","year":"1981","origin":"3","name":"toyota tercel"}
+{"_c0":"349","mpg":"34.1","cylinders":"4","displacement":"91.0","horsepower":"68.0","weight":"1985.0","acceleration":"16.0","year":"1981","origin":"3","name":"mazda glc 4"}
+{"_c0":"350","mpg":"34.7","cylinders":"4","displacement":"105.0","horsepower":"63.0","weight":"2215.0","acceleration":"14.9","year":"1981","origin":"1","name":"plymouth horizon 4"}
+{"_c0":"351","mpg":"34.4","cylinders":"4","displacement":"98.0","horsepower":"65.0","weight":"2045.0","acceleration":"16.2","year":"1981","origin":"1","name":"ford escort 4w"}
+{"_c0":"352","mpg":"29.9","cylinders":"4","displacement":"98.0","horsepower":"65.0","weight":"2380.0","acceleration":"20.7","year":"1981","origin":"1","name":"ford escort 2h"}
+{"_c0":"353","mpg":"33.0","cylinders":"4","displacement":"105.0","horsepower":"74.0","weight":"2190.0","acceleration":"14.2","year":"1981","origin":"2","name":"volkswagen jetta"}
+{"_c0":"354","mpg":"34.5","cylinders":"4","displacement":"100.0","weight":"2320.0","acceleration":"15.8","year":"1981","origin":"2","name":"renault 18i"}
+{"_c0":"355","mpg":"33.7","cylinders":"4","displacement":"107.0","horsepower":"75.0","weight":"2210.0","acceleration":"14.4","year":"1981","origin":"3","name":"honda prelude"}
+{"_c0":"356","mpg":"32.4","cylinders":"4","displacement":"108.0","horsepower":"75.0","weight":"2350.0","acceleration":"16.8","year":"1981","origin":"3","name":"toyota corolla"}
+{"_c0":"357","mpg":"32.9","cylinders":"4","displacement":"119.0","horsepower":"100.0","weight":"2615.0","acceleration":"14.8","year":"1981","origin":"3","name":"datsun 200sx"}
+{"_c0":"358","mpg":"31.6","cylinders":"4","displacement":"120.0","horsepower":"74.0","weight":"2635.0","acceleration":"18.3","year":"1981","origin":"3","name":"mazda 626"}
+{"_c0":"359","mpg":"28.1","cylinders":"4","displacement":"141.0","horsepower":"80.0","weight":"3230.0","acceleration":"20.4","year":"1981","origin":"2","name":"peugeot 505s turbo diesel"}
+{"_c0":"360","mpg":"30.7","cylinders":"6","displacement":"145.0","horsepower":"76.0","weight":"3160.0","acceleration":"19.6","year":"1981","origin":"2","name":"volvo diesel"}
+{"_c0":"361","mpg":"25.4","cylinders":"6","displacement":"168.0","horsepower":"116.0","weight":"2900.0","acceleration":"12.6","year":"1981","origin":"3","name":"toyota cressida"}
+{"_c0":"362","mpg":"24.2","cylinders":"6","displacement":"146.0","horsepower":"120.0","weight":"2930.0","acceleration":"13.8","year":"1981","origin":"3","name":"datsun 810 maxima"}
+{"_c0":"363","mpg":"22.4","cylinders":"6","displacement":"231.0","horsepower":"110.0","weight":"3415.0","acceleration":"15.8","year":"1981","origin":"1","name":"buick century"}
+{"_c0":"364","mpg":"26.6","cylinders":"8","displacement":"350.0","horsepower":"105.0","weight":"3725.0","acceleration":"19.0","year":"1981","origin":"1","name":"oldsmobile cutlass ls"}
+{"_c0":"365","mpg":"20.2","cylinders":"6","displacement":"200.0","horsepower":"88.0","weight":"3060.0","acceleration":"17.1","year":"1981","origin":"1","name":"ford granada gl"}
+{"_c0":"366","mpg":"17.6","cylinders":"6","displacement":"225.0","horsepower":"85.0","weight":"3465.0","acceleration":"16.6","year":"1981","origin":"1","name":"chrysler lebaron salon"}
+{"_c0":"367","mpg":"28.0","cylinders":"4","displacement":"112.0","horsepower":"88.0","weight":"2605.0","acceleration":"19.6","year":"1982","origin":"1","name":"chevrolet cavalier"}
+{"_c0":"368","mpg":"27.0","cylinders":"4","displacement":"112.0","horsepower":"88.0","weight":"2640.0","acceleration":"18.6","year":"1982","origin":"1","name":"chevrolet cavalier wagon"}
+{"_c0":"369","mpg":"34.0","cylinders":"4","displacement":"112.0","horsepower":"88.0","weight":"2395.0","acceleration":"18.0","year":"1982","origin":"1","name":"chevrolet cavalier 2-door"}
+{"_c0":"370","mpg":"31.0","cylinders":"4","displacement":"112.0","horsepower":"85.0","weight":"2575.0","acceleration":"16.2","year":"1982","origin":"1","name":"pontiac j2000 se hatchback"}
+{"_c0":"371","mpg":"29.0","cylinders":"4","displacement":"135.0","horsepower":"84.0","weight":"2525.0","acceleration":"16.0","year":"1982","origin":"1","name":"dodge aries se"}
+{"_c0":"372","mpg":"27.0","cylinders":"4","displacement":"151.0","horsepower":"90.0","weight":"2735.0","acceleration":"18.0","year":"1982","origin":"1","name":"pontiac phoenix"}
+{"_c0":"373","mpg":"24.0","cylinders":"4","displacement":"140.0","horsepower":"92.0","weight":"2865.0","acceleration":"16.4","year":"1982","origin":"1","name":"ford fairmont futura"}
+{"_c0":"374","mpg":"23.0","cylinders":"4","displacement":"151.0","weight":"3035.0","acceleration":"20.5","year":"1982","origin":"1","name":"amc concord dl"}
+{"_c0":"375","mpg":"36.0","cylinders":"4","displacement":"105.0","horsepower":"74.0","weight":"1980.0","acceleration":"15.3","year":"1982","origin":"2","name":"volkswagen rabbit l"}
+{"_c0":"376","mpg":"37.0","cylinders":"4","displacement":"91.0","horsepower":"68.0","weight":"2025.0","acceleration":"18.2","year":"1982","origin":"3","name":"mazda glc custom l"}
+{"_c0":"377","mpg":"31.0","cylinders":"4","displacement":"91.0","horsepower":"68.0","weight":"1970.0","acceleration":"17.6","year":"1982","origin":"3","name":"mazda glc custom"}
+{"_c0":"378","mpg":"38.0","cylinders":"4","displacement":"105.0","horsepower":"63.0","weight":"2125.0","acceleration":"14.7","year":"1982","origin":"1","name":"plymouth horizon miser"}
+{"_c0":"379","mpg":"36.0","cylinders":"4","displacement":"98.0","horsepower":"70.0","weight":"2125.0","acceleration":"17.3","year":"1982","origin":"1","name":"mercury lynx l"}
+{"_c0":"380","mpg":"36.0","cylinders":"4","displacement":"120.0","horsepower":"88.0","weight":"2160.0","acceleration":"14.5","year":"1982","origin":"3","name":"nissan stanza xe"}
+{"_c0":"381","mpg":"36.0","cylinders":"4","displacement":"107.0","horsepower":"75.0","weight":"2205.0","acceleration":"14.5","year":"1982","origin":"3","name":"honda accord"}
+{"_c0":"382","mpg":"34.0","cylinders":"4","displacement":"108.0","horsepower":"70.0","weight":"2245.0","acceleration":"16.9","year":"1982","origin":"3","name":"toyota corolla"}
+{"_c0":"383","mpg":"38.0","cylinders":"4","displacement":"91.0","horsepower":"67.0","weight":"1965.0","acceleration":"15.0","year":"1982","origin":"3","name":"honda civic"}
+{"_c0":"384","mpg":"32.0","cylinders":"4","displacement":"91.0","horsepower":"67.0","weight":"1965.0","acceleration":"15.7","year":"1982","origin":"3","name":"honda civic (auto)"}
+{"_c0":"385","mpg":"38.0","cylinders":"4","displacement":"91.0","horsepower":"67.0","weight":"1995.0","acceleration":"16.2","year":"1982","origin":"3","name":"datsun 310 gx"}
+{"_c0":"386","mpg":"25.0","cylinders":"6","displacement":"181.0","horsepower":"110.0","weight":"2945.0","acceleration":"16.4","year":"1982","origin":"1","name":"buick century limited"}
+{"_c0":"387","mpg":"38.0","cylinders":"6","displacement":"262.0","horsepower":"85.0","weight":"3015.0","acceleration":"17.0","year":"1982","origin":"1","name":"oldsmobile cutlass ciera (diesel)"}
+{"_c0":"388","mpg":"26.0","cylinders":"4","displacement":"156.0","horsepower":"92.0","weight":"2585.0","acceleration":"14.5","year":"1982","origin":"1","name":"chrysler lebaron medallion"}
+{"_c0":"389","mpg":"22.0","cylinders":"6","displacement":"232.0","horsepower":"112.0","weight":"2835.0","acceleration":"14.7","year":"1982","origin":"1","name":"ford granada l"}
+{"_c0":"390","mpg":"32.0","cylinders":"4","displacement":"144.0","horsepower":"96.0","weight":"2665.0","acceleration":"13.9","year":"1982","origin":"3","name":"toyota celica gt"}
+{"_c0":"391","mpg":"36.0","cylinders":"4","displacement":"135.0","horsepower":"84.0","weight":"2370.0","acceleration":"13.0","year":"1982","origin":"1","name":"dodge charger 2.2"}
+{"_c0":"392","mpg":"27.0","cylinders":"4","displacement":"151.0","horsepower":"90.0","weight":"2950.0","acceleration":"17.3","year":"1982","origin":"1","name":"chevrolet camaro"}
+{"_c0":"393","mpg":"27.0","cylinders":"4","displacement":"140.0","horsepower":"86.0","weight":"2790.0","acceleration":"15.6","year":"1982","origin":"1","name":"ford mustang gl"}
+{"_c0":"394","mpg":"44.0","cylinders":"4","displacement":"97.0","horsepower":"52.0","weight":"2130.0","acceleration":"24.6","year":"1982","origin":"2","name":"vw pickup"}
+{"_c0":"395","mpg":"32.0","cylinders":"4","displacement":"135.0","horsepower":"84.0","weight":"2295.0","acceleration":"11.6","year":"1982","origin":"1","name":"dodge rampage"}
+{"_c0":"396","mpg":"28.0","cylinders":"4","displacement":"120.0","horsepower":"79.0","weight":"2625.0","acceleration":"18.6","year":"1982","origin":"1","name":"ford ranger"}
+{"_c0":"397","mpg":"31.0","cylinders":"4","displacement":"119.0","horsepower":"82.0","weight":"2720.0","acceleration":"19.4","year":"1982","origin":"1","name":"chevy s-10"}
