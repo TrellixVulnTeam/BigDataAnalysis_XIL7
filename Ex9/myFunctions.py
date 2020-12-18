@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import re
 import os
-import pandas_profiling
+
 import random
 import seaborn as sns
 import matplotlib.pyplot as plt
